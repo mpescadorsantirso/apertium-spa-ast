@@ -2,69 +2,73 @@
 <dictionary>
 <alphabet>ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</alphabet> 
 <sdefs>
-<sdef n="acr"/>
-<sdef n="predet"/>
-<sdef n="detnt"/>
-<sdef n="loc"/>
-<sdef n="ant"/>
-<sdef n="al"/>
-<sdef n="atn"/>
-<sdef n="enc"/>
-<sdef n="pro"/>
-<sdef n="tn"/>
-<sdef n="n"/>
-<sdef n="np"/>
-<sdef n="adj"/>
-<sdef n="f"/>
-<sdef n="m"/>
-<sdef n="mf"/>
-<sdef n="sg"/>
-<sdef n="pl"/>
-<sdef n="adv"/>
-<sdef n="preadv"/>
-<sdef n="pr"/>
-<sdef n="prn"/>
-<sdef n="rel"/>
-<sdef n="nn"/>
-<sdef n="an"/>
-<sdef n="ind"/>
-<sdef n="itg"/>
-<sdef n="det"/>
-<sdef n="dem"/>
-<sdef n="def"/>
-<sdef n="cnjcoo"/>
-<sdef n="cnjsub"/>
-<sdef n="cnjadv"/>
-<sdef n="nt"/>
-<sdef n="vbser"/>
-<sdef n="vbhaver"/>
-<sdef n="vblex"/>
-<sdef n="inf"/>
-<sdef n="ger"/>
-<sdef n="pp"/>
-<sdef n="pri"/>
-<sdef n="p1"/>
-<sdef n="p2"/>
-<sdef n="p3"/>
-<sdef n="pii"/>
-<sdef n="ifi"/>
-<sdef n="fti"/>
-<sdef n="cni"/>
-<sdef n="prs"/>
-<sdef n="pis"/>
-<sdef n="fts"/>
-<sdef n="imp"/>
-<sdef n="pos"/>
-<sdef n="sp"/>
-<sdef n="ref"/>
-<sdef n="sup"/>
-<sdef n="num"/>
-<sdef n="ij"/>
-<sdef n="sent"/>
-<sdef n="cm"/>
-<sdef n="lpar"/>
-<sdef n="rpar"/>
-<sdef n="lquest"/>
+    <sdef n="a"/>
+    <sdef n="acr"       c="Acronimo"/>
+    <sdef n="predet"    c="Pre-determinanate"/>
+    <sdef n="detnt"     c="Determinanate neutro(?)"/>
+    <sdef n="loc"       c="Ubicación"/>
+    <sdef n="ant"       c="Antroponimo"/>
+    <sdef n="al"        c="Otro (altre)"/>
+    <sdef n="atn"       c="Atono"/>
+    <sdef n="enc"       c="Enclitico"/>
+    <sdef n="pro"       c="Proclitico"/>
+    <sdef n="tn"        c="Tonico"/>
+    <sdef n="n"         c="Nombre"/>
+    <sdef n="np"        c="Nombre propio"/>
+    <sdef n="adj"       c="Adjectivo"/>
+    <sdef n="f" 	    c="Femenino"/>
+    <sdef n="m" 	    c="Masculino"/>
+    <sdef n="mf" 	    c="Masculino / femenino"/>
+    <sdef n="sg" 	    c="Singular"/>
+    <sdef n="pl" 	    c="Plural"/>
+    <sdef n="adv" 	    c="Adverbio"/>
+    <sdef n="preadv" 	c="Preadverbio"/>
+    <sdef n="pr" 	    c="Preposicion"/>
+    <sdef n="prn" 	    c="Pronombre"/>
+    <sdef n="rel" 	    c="Relativo"/>
+    <sdef n="nn" 	    c="Inanimado"/>
+    <sdef n="an" 	    c="Animado / inanimado"/>
+    <sdef n="aa" 	    c="Animado"/>
+    <sdef n="ind" 	    c="Indefinido"/>
+    <sdef n="itg" 	    c="Interrogativo"/>
+    <sdef n="det" 	    c="Determinante"/>
+    <sdef n="dem" 	    c="Demonstrativo"/>
+    <sdef n="def" 	    c="Definite"/>
+    <sdef n="cnjcoo" 	c="Conjunción Co-ordinativa"/>
+    <sdef n="cnjsub" 	c="Conjunción Subordinativa"/>
+    <sdef n="cnjadv" 	c="Conjunción Adverbial"/>
+    <sdef n="nt" 	    c="Neutro"/>
+    <sdef n="vbser" 	c="Verbo Ser 'to be'"/>
+    <sdef n="vbhaver" 	c="Verbo Tener 'to have'"/>
+    <sdef n="vblex" 	c="Verbo"/>
+    <sdef n="inf" 	    c="Infinitivo"/>
+    <sdef n="infps"     c="Infinitivo Personal"/>
+    <sdef n="ger" 	    c="Gerundio"/>
+    <sdef n="gerps"     c="Gerundio Personal"/>
+    <sdef n="pp" 	    c="Participio Pasado"/>
+    <sdef n="pri" 	    c="Presente indicativo"/>
+    <sdef n="p1" 	    c="Primera persona"/>
+    <sdef n="p2" 	    c="Segunda persona"/>
+    <sdef n="p3" 	    c="Third person"/>
+    <sdef n="pii" 	    c="Imperfecto indicativo"/>
+    <sdef n="ifi" 	    c="Preterito indicativo"/>
+    <sdef n="fti" 	    c="Futuro indicativo"/>
+    <sdef n="cni" 	    c="Condicional"/>
+    <sdef n="prs" 	    c="Presente subjuntivo"/>
+    <sdef n="pis" 	    c="Imperativo subjuntivo"/>
+    <sdef n="fts" 	    c="Futuro subjuntivo"/>
+    <sdef n="imp" 	    c="Imperativo"/>
+    <sdef n="pos" 	    c="Posesivo"/>
+    <sdef n="sp" 	    c="Singular / plural"/>
+    <sdef n="ref" 	    c="Reflexivo"/>
+    <sdef n="sup" 	    c="Superlativo"/>
+    <sdef n="num" 	    c="Numeral"/>
+    <sdef n="ij"    	c="Interjeccion"/>
+    <sdef n="sent" 	    c="Marcador de frase"/>
+    <sdef n="cm" 	    c="Coma"/>
+    <sdef n="lpar" 	    c="Parentesis Izquierdo"/>
+    <sdef n="rpar" 	    c="Parentesis Derecho"/>
+    <sdef n="lquest" 	c="Marca de pregunta Izquierda"/>
 </sdefs>
   <pardefs>
 
